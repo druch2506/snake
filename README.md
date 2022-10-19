@@ -1,2 +1,2 @@
 # snake
-Snake, the game!
+Snake, like the game!
